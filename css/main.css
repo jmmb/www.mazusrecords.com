@@ -496,6 +496,10 @@ a.link6:active {
   width: 66%;
 }
 
+*:before, *:after {
+  box-sizing: border-box;
+}
+
 /* Homepage Footer channel icon styles */
 
 .channels {
