@@ -501,49 +501,46 @@ a.link6:active {
 }
 
 input[type=text] {
-  background-color: turquoise;
-  margin: 10px 0;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 0px;
   padding: 5px;
   width: 33%;
-}
-
-.contact-text-input {
-   // styles here
 }
 
 input[type=email] {
-  background-color: turquoise;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
   margin: 10px 0;
   padding: 5px;
   width: 33%;
 }
 
-.contact-email-input {
-   // styles here
-}
-
 textarea {
-  background-color: turquoise;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  height: 200px;
   margin: 10px 0;
   padding: 5px;
-  width: 66%;
-}
-
-.contact-textarea {
-   // styles here
+  resize: none;
+  width: 68%;
 }
 
 button {
-  background-color: turquoise;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
   display: block;
   margin: auto;
   margin-bottom: 10px;
   padding: 5px;
   width: 100px;
-}
-
-.contact-button {
-   // styles here
 }
 
 /* Homepage Footer channel icon styles */
